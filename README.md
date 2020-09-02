@@ -3,23 +3,23 @@
 </div>
 <br>
 
-👋 Hello... My full name is Sutan Gading Fadhillah Nasution, so you can call me "Gading". I'm Software Engineer who specialized in *frontend* side, but also have an ability to code in *backend* side. Very passionate about modern *mobile and web technology* using JavaScript/TypeScript while taking into consideration the latest trends and techniques.
+👋 Hello... My name is Erwin Paisal, you can call me "Erwin". I'm Android Developer. Very passionate about modern *mobile technology* using Java/Kotlin while taking into consideration the latest trends and techniques.
 
 ## 💼 Career
-Currently working in *Software Engineering Division* as a ***Frontend Developer*** at [Orami Indonesia](https://github.com/bilna-dev). Helping Orami to build application services for *simplify parenting* with technology throughout Southeast Asia.
+I previously worked at : 
+- *Freight Forwarding Division* as a ***Field Operations*** at [PT. Mitra Utama Angkasa Jaya Raya International Cargo] (2015-2016)
+- *Prepress* as a ***Layout Operations*** at [PT. Medan Media Grafikatama] (2017-2020)
+- *Android Division* as a ***Android Developer*** at [PT. Binus Center Medan] (2020-now)
+
 
 ## 💻 Experiences
-- Pure JavaScript/TypeScript
+- Adobe Photoshop
+- Corel Draw
+- Adobe XD
+- Figma
+- Technical Maintenance Computer & Networking
 - GIT (VCS)
-- React Web/Native (*SPA, Hooks, Context API, Redux*)
-- NextJS, NuxtJS (*SSR, SSG/JAMStack*)
-- CSS Preprocessor (*SASS, LESS*)
-- NodeJS Environment (*Real-time, Asynchronous/Concurrent Processing*)
-- RESTful/GraphQL (API Integration)
-- CI/CD Integration
-- Bots, Automation, Task Runner
-- MySQL, MongoDB, Redis, Plain JSON/CSV
-- AWS, Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, GAPPS API (*SaaS/PaaS*)
+- Android Studio (Java/Kotlin)
 
 ### 🔍 Currently Learning:
 - Dive deeper into Frontend Development Complexity
@@ -30,13 +30,12 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - Self Improvement
 
 ### 🚀 How to reach me:
-- Web: [sutanlab.id](https://sutanlab.id)
-- Email: [sutan.gnst@gmail.com](mailto:sutan.gnst@gmail.com)
-- LinkedIn: [sutan-nasution](https://www.linkedin.com/in/sutan-nasution/)
-- Instagram: [@gadingnst](https://instagram.com/gadingnst)
-- Twitter: [@gading_nst](https://twitter.com/gading_nst)
-- Telegram: [@gadingnasution](https://t.me/gadingnasution)
+- Web: [erwinpaisal](https://erwinpaisal.github.io/)
+- Email: [erwinpaisalid@gmail.com](mailto:erwinpaisalid@gmail.com)
+- LinkedIn: [Erwin Paisal](https://www.linkedin.com/in/erwin-paisal-3a7978109/)
+- Instagram: [@erwinpaisal.id](https://instagram.com/erwinpaisal.id)
+- Telegram: [@erwinpaisal](https://t.me/erwinpaisal)
 
 ---
 
-© 2020 — Sutan Gading Fadhillah Nasution
+© 2020 — Erwin Paisal
