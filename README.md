@@ -3,13 +3,8 @@
 </div>
 <br>
 
-👋 Hello... My name is Erwin Paisal, you can call me "Erwin". I'm Android Developer. Very passionate about modern *mobile technology* using Java/Kotlin while taking into consideration the latest trends and techniques.
+👋 Hello, I have experience on the ICT (Computer Technician and Network Administration) side, but also have the ability to code on the mobile (Android) and User Interface Design side. Very passionate about modern applications and live data technology using Firebase while considering the latest trends and techniques. I write the code structure neatly and optimally. And I will be a fast learner to do new things and build good teamwork too.
 
-## 💼 Career
-I previously worked at : 
-- *Freight Forwarding Division* as a ***Field Operations*** at [PT. Mitra Utama Angkasa Jaya Raya International Cargo] (2015-2016)
-- *Prepress* as a ***Layout Operations*** at [PT. Medan Media Grafikatama] (2017-2020)
-- *Android Division* as a ***Android Developer*** at [PT. Binus Center Medan] (2020-now)
 
 
 ## 💻 Experiences
@@ -19,11 +14,9 @@ I previously worked at :
 - Figma
 - Technical Maintenance Computer & Networking
 - GIT (VCS)
-- Android Studio (Java/Kotlin)
+- Android Studio (Kotlin)
 
 ### 🔍 Currently Learning:
-- Dive deeper into Frontend Development Complexity
-- Functional Programming Paradigm (Mathmatical functions style)
 - Design Pattern
 - UI/UX Design
 - Writing
@@ -32,8 +25,8 @@ I previously worked at :
 ### 🚀 How to reach me:
 - Web: [erwinpaisal](https://erwinpaisal.github.io/)
 - Email: [erwinpaisalid@gmail.com](mailto:erwinpaisalid@gmail.com)
-- LinkedIn: [Erwin Paisal](https://www.linkedin.com/in/erwin-paisal-3a7978109/)
-- Instagram: [@erwinpaisal.id](https://instagram.com/erwinpaisal.id)
+- LinkedIn: [Erwin Paisal](https://www.linkedin.com/in/erwin-paisal/)
+- Instagram: [@erwinpaisal.id](https://instagram.com/erwinpaisal)
 - Telegram: [@erwinpaisal](https://t.me/erwinpaisal)
 
 ---
