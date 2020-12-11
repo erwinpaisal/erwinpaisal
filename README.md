@@ -2,8 +2,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=erwinpaisal&show_icons=true&theme=dracula" alt="Erwin Paisal Stats">
 </div>
 <br>
+
+
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=erwinpaisal&layout=compact&theme=nightowl)
-<br>
+
+
+
 
 👋 Hello, I have experience on the ICT (Computer Technician and Network Administration) side, but also have the ability to code on the mobile (Android) and User Interface Design side. Very passionate about modern applications and live data technology using Firebase while considering the latest trends and techniques. I write the code structure neatly and optimally. And I will be a fast learner to do new things and build good teamwork too.
 
