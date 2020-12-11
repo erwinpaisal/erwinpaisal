@@ -1,10 +1,10 @@
+## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erwinpaisal&show_icons=true&theme=dracula" alt="Erwin Paisal Stats">
 </div>
 <br>
 
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=erwinpaisal&layout=compact&theme=nightowl)
 
 
 
