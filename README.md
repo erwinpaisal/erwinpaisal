@@ -1,4 +1,4 @@
-## Hi 👋 This is Eggy Andika Wardani
+## Hi 👋 This is Erwin Paisal
 [![Gmail Badge](https://img.shields.io/badge/-erwinpaisalid@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:erwinpaisalid@gmail.com)](mailto:erwinpaisalid@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-erwinpaisal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erwin-paisal/)](https://www.linkedin.com/in/erwin-paisal/) [![Github Badge](https://img.shields.io/badge/-erwinpaisal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erwinpaisal/)](https://www.github.com/erwinpaisal/) <p align='left'>Someone who still learning Technologies</p>
 
