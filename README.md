@@ -1,39 +1,24 @@
-## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi 👋 This is Eggy Andika Wardani
+[![Gmail Badge](https://img.shields.io/badge/-erwinpaisalid@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:erwinpaisalid@gmail.com)](mailto:erwinpaisalid@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-erwinpaisal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erwin-paisal/)](https://www.linkedin.com/in/erwin-paisal/) [![Github Badge](https://img.shields.io/badge/-erwinpaisal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erwinpaisal/)](https://www.github.com/erwinpaisal/) <p align='left'>Someone who still learning Technologies</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erwinpaisal&show_icons=true&theme=dracula" alt="Erwin Paisal Stats">
-</div>
-<br>
-
-
-
-
-
-👋 Hello, I have experience on the ICT (Computer Technician and Network Administration) side, but also have the ability to code on the mobile (Android) and User Interface Design side. Very passionate about modern applications and live data technology using Firebase while considering the latest trends and techniques. I write the code structure neatly and optimally. And I will be a fast learner to do new things and build good teamwork too.
+## Some of my Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=erwinpaisal&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/erwinpaisal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erwinpaisal&layout=compact&theme=algolia)](https://github.com/erwinpaisal/github-readme-stats)
 
 
 
-## 💻 Experiences
-- Adobe Photoshop
-- Corel Draw
-- Technical Maintenance Computer & Networking
-- GIT (VCS)
-- Android Studio (Kotlin)
+<!--
+**eggywardani/eggywardani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 🔍 Currently Learning:
-- Design Pattern
-- UI/UX Design
-- Writing
-- Self Improvement
+Here are some ideas to get you started:
 
-### 🚀 How to reach me:
-<a href="https://www.instagram.com/erwinpaisal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/erwin-paisal/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/c/ErwinPaisal" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
-<a href="https://erwinpaisal.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-%23FF0000.svg?&style=for-the-badge&logo=Website&logoColor=white" height="32px" alt="Website"></a>
-
-
-
----
-
-© 2020 — Erwin Paisal
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
